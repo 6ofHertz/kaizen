@@ -46,8 +46,8 @@ Figma-based wireframes with a clean, supportive interface, focused on:
 
 Project developed during the **Kachiri & Code Hackathon 2025**, hosted at Westerwelle Startup Haus, Mombasa (April 11–12, 2025).
 
-- **Lead Developer:** [Your Name]  
-- **Design & Research:** [Add teammates if applicable]
+- **Lead Developer:** [133x-bit]  
+- **Design & Research:** [-]
 
 ---
 
@@ -84,5 +84,5 @@ Kaizen is an educational prototype. It is not a substitute for professional medi
 
 Feel free to reach out or contribute!
 
-- GitHub: [github.com/yourusername/kaizen](https://github.com/yourusername/kaizen)  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
+- GitHub: [github.com/6ofHertz/kaizen](https://github.com/6ofHertz/kaizen)  
+- Email: [wisodmkinoti001@gmail.com](mailto:wisodmkinoti001@gmail.com)  
