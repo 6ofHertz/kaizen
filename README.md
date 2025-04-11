@@ -86,3 +86,42 @@ Feel free to reach out or contribute!
 
 - GitHub: [github.com/6ofHertz/kaizen](https://github.com/6ofHertz/kaizen)  
 - Email: [wisodmkinoti001@gmail.com](mailto:wisodmkinoti001@gmail.com)  
+
+
+# Project Kaizen: Mental Well-being Web App (24-Hour Hackathon)  
+**Continuous Improvement in a Sprint**  
+*A minimalist web app for bipolar disorder support, built in 24 hours with SDG 3 alignment*  
+
+![App Preview](/assets/preview.gif) *[Tip: Record a 10-second demo during dev!]*
+
+## 🌟 **Hackathon Focus**  
+**Goal:** Deliver a **functional MVP** in 24 hours that:  
+✅ Tracks mood swings with a simple slider → graph  
+✅ Provides instant crisis resources (hotlines, grounding exercises)  
+✅ Connects users via **anonymous 1:1 chat** (Firebase-powered)  
+
+## 🛠️ **24-Hour Tech Stack**  
+| Purpose          | Tool                          | Why?                          |  
+|------------------|-------------------------------|-------------------------------|  
+| Frontend         | React + Tailwind CSS          | Fast UI dev with responsive   |  
+| Backend          | Firebase (Auth + Realtime DB) | Zero-config backend           |  
+| Hosting          | Vercel                        | Instant deploy                |  
+| Crisis API       | Twilio SMS (stretch goal)     | Emergency alerts if time      |  
+
+## 🚀 **How We Kaizen’d in 24 Hours**  
+1. **Hour 0-2:** Planned MVP + designed wireframes in Figma  
+2. **Hour 2-5:** Built mood tracker (React hooks + Firebase)  
+3. **Hour 5-12:** Anonymous chat (Firebase Realtime DB)  
+4. **Hour 12-18:** Crisis resources page (pre-loaded content)  
+5. **Hour 18-22:** Testing + bug fixes  
+6. **Hour 22-24:** Deployed + prepared pitch  
+
+## 📂 **Repo Structure**  
+```plaintext
+/kaizen  
+├── src/  
+│   ├── components/  # MoodTracker.js, ChatBox.js  
+│   ├── firebase.js  # Config  
+│   └── App.js       # Router  
+├── public/          # Crisis resources (JSON)  
+└── README.md        # You’re here!  
